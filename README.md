@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/AntonSushilov?theme=nord&font=Noto%20Sans%20Carian&ext=heatmap)
 <!--
 **AntonSushilov/AntonSushilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
